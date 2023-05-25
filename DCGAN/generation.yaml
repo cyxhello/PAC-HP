@@ -1,0 +1,11 @@
+arch: 'Generator'
+
+path: 'checkpoints/resize64_180.pth'
+out: 'gen/single/'
+run: 'resize64_e180'
+
+n_gpu: 1
+
+quantity: 10
+
+image_size: 64

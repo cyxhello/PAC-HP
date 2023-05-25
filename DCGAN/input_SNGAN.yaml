@@ -1,0 +1,21 @@
+arch: 'SNGAN'
+
+path: 'data/crop_patch=4/'
+out: 'output=4_sngan/'
+run: 'training'
+seed: 95
+n_gpu: 1
+
+num_epochs: 200
+learning_rate: 0.0002
+beta_adam: 0.5
+batch_size: 8
+
+
+latent_vector: 64
+
+image_size: 64
+loader_workers: 2
+number_channels: 3
+gen_feature_maps: 64
+dis_feature_maps: 64
