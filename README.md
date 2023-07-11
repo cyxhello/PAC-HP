@@ -1,6 +1,6 @@
 # PAC-HP
 
-This is the PyTorch version repo for [Precise Augmentation and Counting of Helicobacter Pylori in Histology Image](https://arxiv.org/abs/1802.10062) in NeurIPS 2022 workshop, which study the precise counting of Helicobacter Pylori (HP).
+This is the PyTorch version repo for [Precise Augmentation and Counting of Helicobacter Pylori in Histology Image](https://cyxhello.github.io/HPCDataset/) in NeurIPS 2022 workshop, which study the precise counting of Helicobacter Pylori (HP).
 
 ## Datasets
 HP counting corpus HPCDataset [url](https://cyxhello.github.io/HPCDataset/): [Google Drive](https://drive.google.com/drive/folders/1f6cNEdAlltVXENQtn7DAaDrVOBW2xvrQ?usp=sharing)
